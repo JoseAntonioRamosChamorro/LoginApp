@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="titulo">Login</string>
+    <string name="swith">Guardar las credenciales</string>
+    <string name="btnAcceder">Acceder</string>
+
+
+    <string name="txLogin">Login completado</string>
+    <string name="btnlogin2">Borrar Datos</string>
+</resources>
